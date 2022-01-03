@@ -1,8 +1,8 @@
 ## Heey! I'm Fellipe Utaka, a young web developer!
 <div align="center">
   <a href="https://github.com/FellipeUtaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipeutaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeutaka&layout=compact&langs_count=4&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fellipeutaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeutaka&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
