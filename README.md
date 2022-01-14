@@ -7,8 +7,8 @@
 <div align="center"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="right" alt="Fellipe-Picture" height="150" style="border-radius:50px;" src="https://igdownloader.com/file?id=aHR0cHM6Ly9zY29udGVudC1sZ2EzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE5L3MzMjB4MzIwLzI1ODg4MzMxOF82ODkyMTUxMzIwNjQ4ODRfNzQ0NDc0MTk3NjAzNDQ0MjkzMV9uLmpwZz9fbmNfaHQ9c2NvbnRlbnQtbGdhMy0xLmNkbmluc3RhZ3JhbS5jb20mX25jX2NhdD0xMDQmX25jX29oYz1KVDJPNWhFbFI0NEFYLS10bERDJmVkbT1BQmZkME1nQkFBQUEmY2NiPTctNCZvaD0wMF9BVDhIR0tUNThkVHE3ZHFDTWRuWER6OFJwVllwMUpYQ0RSVl96ZGFDN2RTbDhBJm9lPTYxRTgyNjM5Jl9uY19zaWQ9N2JmZjgz">
 </div>
