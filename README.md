@@ -1,4 +1,6 @@
-## Heey! I'm Fellipe Utaka, a young web developer!
+## Hi there! 👋
+I'm Fellipe Utaka, a young web developer!
+
 <div align="center">
   <a href="https://github.com/FellipeUtaka">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fellipeutaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="Fellipe-Picture" height="150" style="border-radius:50px;" src="https://igdownloader.com/file?id=aHR0cHM6Ly9zY29udGVudC1sZ2EzLTEuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE5L3MzMjB4MzIwLzI1ODg4MzMxOF82ODkyMTUxMzIwNjQ4ODRfNzQ0NDc0MTk3NjAzNDQ0MjkzMV9uLmpwZz9fbmNfaHQ9c2NvbnRlbnQtbGdhMy0xLmNkbmluc3RhZ3JhbS5jb20mX25jX2NhdD0xMDQmX25jX29oYz1KVDJPNWhFbFI0NEFYLS10bERDJmVkbT1BQmZkME1nQkFBQUEmY2NiPTctNCZvaD0wMF9BVDhIR0tUNThkVHE3ZHFDTWRuWER6OFJwVllwMUpYQ0RSVl96ZGFDN2RTbDhBJm9lPTYxRTgyNjM5Jl9uY19zaWQ9N2JmZjgz">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
 </div>
   
   ##
