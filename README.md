@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Fellipe Utaka, a young web developer!
+I'm Fellipe Utaka, a young web developer! 📈🚀
 
 <div align="center">
   <a href="https://github.com/FellipeUtaka">
