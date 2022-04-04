@@ -4,7 +4,7 @@ I'm Fellipe Utaka, a young web developer! 📈🚀
 <div align="center">
   <a href="https://github.com/FellipeUtaka">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fellipeutaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeutaka&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeutaka&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
