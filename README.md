@@ -2,16 +2,14 @@
 I'm Fellipe Utaka, a young web developer! 📈🚀
 
 <div align="center">
-  <a href="https://github.com/FellipeUtaka">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fellipeutaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipeutaka&layout=compact&langs_count=5&theme=dracula"/>
+  <img align="center" alt="Gif" height="330em" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
 </div>
-<div align="center"><br>
+<br />
+<div align="center">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
 </div>
   
 ##
