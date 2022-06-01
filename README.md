@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
+## Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">
 I'm Fellipe Utaka, a young web developer! 📈🚀
 
 <div align="center">
