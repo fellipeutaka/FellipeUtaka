@@ -78,12 +78,37 @@ Systems Analysis and Development.
   <summary>Back-end</summary>
   <div>
     <br />
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    <img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
-    <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <blockquote />
+    <details>
+      <summary>Runtimes</summary>
+      <div>
+        <br />
+        <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Languages</summary>
+      <div>
+        <br />
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Frameworks</summary>
+      <div>
+        <br />
+        <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+        <img alt="Fastify" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" />
+        <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Patterns</summary>
+      <div>
+        <br />
+        <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+      </div>
+    </details>
   </div>
 </details>
 
@@ -91,9 +116,22 @@ Systems Analysis and Development.
   <summary>Mobile</summary>
   <div>
     <br />
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" />
-    <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
-    <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&amp;logo=expo&amp;logoColor=#D04A37" />
+    <blockquote />
+    <details>
+      <summary>Operational Systems</summary>
+      <div>
+        <br />
+        <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Frameworks</summary>
+      <div>
+        <br />
+        <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" />
+        <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&amp;logo=expo&amp;logoColor=#D04A37" />
+      </div>
+    </details>
   </div>
 </details>
 
@@ -147,7 +185,7 @@ Systems Analysis and Development.
       </div>
     </details>
     <details>
-      <summary>Operational systems</summary>
+      <summary>Operational Systems</summary>
       <div>
         <br />
         <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
