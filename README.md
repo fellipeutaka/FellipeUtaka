@@ -1,7 +1,5 @@
 # Fellipe Utaka
 
-Full-Stack Developer.
-
 [![Discord](https://img.shields.io/badge/-Utaka%237697-0071B2?style=flat-square&labelColor=0071B2&logo=discord&logoColor=white)](https://discord.com/users/232507638968090624 "Discord")
 [![Codepen](https://img.shields.io/badge/-@fellipeutaka-0071B2?style=flat-square&labelColor=0071B2&logo=codepen&logoColor=white)](https://codepen.io/fellipeutaka "Codepen")
 [![Twitter](https://img.shields.io/badge/-@fellipeutaka-0071B2?style=flat-square&labelColor=0071B2&logo=twitter&logoColor=white)](https://twitter.com/fellipeutaka "Twitter")
@@ -16,7 +14,8 @@ I'm passionate about developing clean, robust, and scalable software that provid
 Outside of software development, I'm a gamer who loves to work out at the gym and cook in my spare time.
 
 ## 🎓 Education
-Systems Analysis and Development.
+* System Development at ETEC (2020-2022)
+* Systems Analysis and Development at FAMIC (2023 - now)
 
 ## ⚡ Skills
 <details>
