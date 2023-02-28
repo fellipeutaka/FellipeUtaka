@@ -19,7 +19,7 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
 Systems Analysis and Development.
 
 ## ⚡ Skills
-<details>
+<details open>
   <summary>Front-end</summary>
   <div>
     <br />
@@ -43,7 +43,7 @@ Systems Analysis and Development.
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Back-end</summary>
   <div>
     <br />
@@ -56,22 +56,7 @@ Systems Analysis and Development.
   </div>
 </details>
 
-<details>
-  <summary>Database</summary>
-  <div>
-    <br />
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
-    <img alt="PlanetScale" src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&amp;logo=planetscale&amp;logoColor=white" />
-    <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" />
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
-    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
-  </div>
-</details>
-
-<details>
+<details open>
   <summary>Mobile</summary>
   <div>
     <br />
@@ -82,34 +67,54 @@ Systems Analysis and Development.
 </details>
 
 <details>
-  <summary>Testing</summary>
+  <summary>Other</summary>
   <div>
     <br />
-    <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
-    <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&amp;logo=testing-library&amp;logoColor=white" />
-</details>
-
-<details>
-  <summary>Tools</summary>
-  <div>
-    <br />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" />
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" />
-    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" />
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%231C1B22.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" />
-    <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white" />
+    <blockquote />
+    <details>
+      <summary>Databases</summary>
+      <div>
+        <br />
+        <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
+        <img alt="PlanetScale" src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&amp;logo=planetscale&amp;logoColor=white" />
+        <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" />
+        <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
+        <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Testing</summary>
+      <div>
+        <br />
+        <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
+        <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&amp;logo=testing-library&amp;logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Tools</summary>
+      <div>
+        <br />
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" />
+        <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" />
+        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+        <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" />
+        <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" />
+        <img alt="Figma" src="https://img.shields.io/badge/figma-%231C1B22.svg?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
+        <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" />
+        <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&amp;logo=Adobe%20Premiere%20Pro&amp;logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Operational systems</summary>
+      <div>
+        <br />
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
+        <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&amp;logo=Linux%20Mint&amp;logoColor=white" />
+        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />
+        <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" />
+    </details>
   </div>
-</details>
-
-<details>
-  <summary>Operational systems</summary>
-  <div>
-    <br />
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" />
-    <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&amp;logo=Linux%20Mint&amp;logoColor=white" />
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" />
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" />
 </details>
