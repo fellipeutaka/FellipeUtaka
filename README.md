@@ -89,6 +89,8 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
       <summary>Languages</summary>
       <div>
         <br />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
       </div>
     </details>
@@ -121,6 +123,15 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
       <div>
         <br />
         <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" />
+      </div>
+    </details>
+    <details>
+      <summary>Languages</summary>
+      <div>
+        <br />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
       </div>
     </details>
     <details>
