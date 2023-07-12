@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-fellipeutaka@gmail.com-0071B2?style=flat-square&logo=Gmail&logoColor=white)](mailto:fellipeutaka@gmail.com "Gmail")
 
 ## 📖 About Me
-I'm a full-stack software developer with 2+ years of experience creating web applications.
+I'm a full-stack software developer with 3+ years of experience creating web applications.
 
 I'm passionate about developing clean, robust, and scalable software that provides an awesome experience for the user. Currently, my main stack is React, TypeScript and Node.js, but I'm always curious to learn and explore other technologies.
 
@@ -170,6 +170,7 @@ Outside of software development, I'm a gamer who loves to work out at the gym an
       <div>
         <br />
         <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" />
+        <img alt="Vitest" src="https://img.shields.io/badge/-vitest-%FCEAC7?style=for-the-badge&amp;logo=vitest&amp;logoColor=white" />
         <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-%23E33332?style=for-the-badge&amp;logo=testing-library&amp;logoColor=white" />
       </div>
     </details>
