@@ -1,6 +1,6 @@
 # Fellipe Utaka
 
-[![Discord](https://img.shields.io/badge/-Utaka%237697-0071B2?style=flat-square&labelColor=0071B2&logo=discord&logoColor=white)](https://discord.com/users/232507638968090624 "Discord")
+[![Discord](https://img.shields.io/badge/-fellipeutaka-0071B2?style=flat-square&labelColor=0071B2&logo=discord&logoColor=white)](https://discord.com/users/232507638968090624 "Discord")
 [![Codepen](https://img.shields.io/badge/-@fellipeutaka-0071B2?style=flat-square&labelColor=0071B2&logo=codepen&logoColor=white)](https://codepen.io/fellipeutaka "Codepen")
 [![Dev.to](https://img.shields.io/badge/-fellipeutaka-0071B2?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/fellipeutaka "Dev.to")
 [![Twitter](https://img.shields.io/badge/-@fellipeutaka-0071B2?style=flat-square&labelColor=0071B2&logo=twitter&logoColor=white)](https://twitter.com/fellipeutaka "Twitter")
