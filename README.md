@@ -14,13 +14,6 @@ I'm passionate about developing clean, robust, and scalable software that provid
 
 Outside of software development, I'm a gamer who loves to work out at the gym and cook in my spare time.
 
-## 💼 Experience
-* Full Stack Developer at Anjun Express (Apr 2023 - Oct 2023)
-
-## 🎓 Education
-* System Development at ETEC (2020 - 2022)
-* Systems Analysis and Development at FAMIC (2023 - now)
-
 ## ⚡ Skills
 <details>
   <summary>Front-end</summary>
