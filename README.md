@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-fellipeutaka@gmail.com-0071B2?style=flat-square&logo=Gmail&logoColor=white)](mailto:fellipeutaka@gmail.com "Gmail")
 
 ## 📖 About Me
-I'm a full-stack software developer with 3+ years of experience creating web applications.
+I'm a full-stack software developer with 4+ years of experience creating web applications.
 
 I'm passionate about developing clean, robust, and scalable software that provides an awesome experience for the user. Currently, my main stack is React, TypeScript and Node.js, but I'm always curious to learn and explore other technologies.
 
