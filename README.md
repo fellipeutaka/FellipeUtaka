@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@fellipeutaka-1d4ed8?style=flat-square&labelColor=1d4ed8&logo=twitter&logoColor=white&link=https://twitter.com/fellipeutaka)](https://twitter.com/fellipeutaka) 
 [![Linkedin Badge](https://img.shields.io/badge/-Fellipe%20Utaka-1d4ed8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fellipeutaka/)](https://www.linkedin.com/in/fellipeutaka/) 
-[![Gmail Badge](https://img.shields.io/badge/-fellipe.utaka@gmail.com-1d4ed8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipe.utaka@gmail.com)](mailto:fellipeutaka@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fellipeutaka@gmail.com-1d4ed8?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fellipe.utaka@gmail.com)](mailto:fellipeutaka@gmail.com)
 
 Obsessed with developer experience, robust, scalable and user-friendly applications.
 
